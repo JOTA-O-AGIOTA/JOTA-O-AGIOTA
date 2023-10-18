@@ -1,4 +1,4 @@
-- 🤘 Hello, eu sou o João (ou Jota se preferir ;)
+- 🤘 Hello, eu sou o João ;)
 - 📚 Estudante de Programação 
 - 💻 Pretendo entrar no mercado de trabalho de devs dentro de alguns anos 
 
