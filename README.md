@@ -1,6 +1,6 @@
-- 🤘 Hello, eu sou o João ;)
-- 📚 Estudante de Programação 
-- 💻 Pretendo entrar no mercado de trabalho de devs dentro de alguns anos 
+- Eu sou o João
+- Desenvolvedor Web | Estudante 
+- A programação se tornou uma paixão para mim
 
 <div align="center">
   <a href="https://github.com/JOTA-O-AGIOTA">
