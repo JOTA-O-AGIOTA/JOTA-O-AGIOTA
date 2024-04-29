@@ -1,6 +1,7 @@
 - Eu sou o João
 - Desenvolvedor Web | Estudante 
 - A programação se tornou uma paixão para mim
+- JavaScript, HTML e CSS
 
 <div align="center">
   <a href="https://github.com/JOTA-O-AGIOTA">
